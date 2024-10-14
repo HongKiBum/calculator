@@ -1,13 +1,13 @@
 def add(x, y):
-    return x + y
+    # todo
+    pass
 
 def subtract(x, y):
     # todo
     pass
 
 def multiply(x, y):
-    # todo
-    pass
+    return x*y
 
 def divide(x, y):
     # todo
