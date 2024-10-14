@@ -10,8 +10,10 @@ def multiply(x, y):
     return x*y
 
 def divide(x, y):
-    # todo
-    pass
+    if y==0:
+        return "can't div by 0"
+    else:
+        return x/y
 
 print("Select operation.")
 print("1.Add")
